@@ -10,9 +10,6 @@ input_string = 'best cheap phones'
 urls = best_results(input_string)
 sites_content = get_content(urls)
 
-print(len([page for page in sites_content if page != 0]))
-print(len([page for page in sites_content if page == 0]))
-
 all_rankings = get_all_rankings(input_string, urls, sites_content)
 all_rankings = titles_union(all_rankings)
 all_rankings = spaces_check(all_rankings)
@@ -45,4 +42,5 @@ df['waf_ns'] = df['num_sites'] * df['wa_flip']
 
 most_mentioned_df = df.sort_values(by=['sites_occur'], ascending=False)
 top_rated_df = df.sort_values(by=['waf_ns'], ascending=False)
-df.to_csv('best_student_laptop', index=False)
+
+return top_rated_df, most_mentioned_df
