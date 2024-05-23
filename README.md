@@ -1,3 +1,6 @@
+
+![option 2](https://github.com/tomerfried/CompareSum-/assets/68680809/ad056be4-7a03-40df-8915-9ba6ce78550e)
+
 A project which summarizes ratings of various products, based on Google Search results:
 
 - Scrapes data from product comparison websites
