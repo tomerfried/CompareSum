@@ -21,7 +21,14 @@ Loading screen, while information is gathered and calculated:
 
 ![צילום מסך 2](https://github.com/tomerfried/CompareSum-/assets/68680809/175a0af1-5fea-4ca8-8e07-e3a917f89d7f)
 
-Finally, the results are presented as a scrolling list, in a descnding order from top to bottom, according to chosen criteria (Top Rated/Most Mentioned):
+Finally, the results are presented as a scrolling list, in a descnding order from top to bottom, according to chosen the criteria (Top Rated/Most Mentioned):
 
 ![צילום מסך 3](https://github.com/tomerfried/CompareSum-/assets/68680809/d7d8c1f0-04fb-476a-9e49-397f98f8a316)
+
 By taping a circle, a list of links from different websites is opened, which review the product.
+
+Video:
+
+https://github.com/tomerfried/CompareSum-/assets/68680809/69d27377-c3b3-413b-8f1b-f93d3b9b59d8
+
+
