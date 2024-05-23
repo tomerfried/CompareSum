@@ -1,5 +1,5 @@
 
-![option 2](https://github.com/tomerfried/CompareSum-/assets/68680809/ad056be4-7a03-40df-8915-9ba6ce78550e)
+![logo resized](https://github.com/tomerfried/CompareSum-/assets/68680809/1fdc40ab-f513-4c8d-a84e-208a8927207f)
 
 A project which summarizes ratings of various products, based on Google Search results:
 
@@ -10,3 +10,7 @@ A project which summarizes ratings of various products, based on Google Search r
 Main.py - main file of the algorithm, gets the input, calculates the results using GoogleFunctions.py and PagesFunctions.py and returns the output
 GoogleFunctions.py - methods related to the Google search results of the input
 PagesFunctions - methods related to inside-website analysis of the Google search results
+
+![צילום מסך 1](https://github.com/tomerfried/CompareSum-/assets/68680809/54c9e989-3790-4616-8fd2-a60e3f4d098f)
+![צילום מסך 2](https://github.com/tomerfried/CompareSum-/assets/68680809/175a0af1-5fea-4ca8-8e07-e3a917f89d7f)
+![צילום מסך 3](https://github.com/tomerfried/CompareSum-/assets/68680809/d7d8c1f0-04fb-476a-9e49-397f98f8a316)
